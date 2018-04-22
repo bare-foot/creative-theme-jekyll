@@ -1,8 +1,8 @@
 # Site settings
-title: Jeju Steno
-email:
-description: > # this means to ignore newlines until "baseurl:"
-baseurl: "/jejusteno1" # the subpath of your site, e.g. /blog/
+title: 제주속기사무소
+email: jejuin0915@naver.com
+description: 상세설명> # this means to ignore newlines until "baseurl:"
+baseurl: "/jejusteno" # the subpath of your site, e.g. /blog/
 url: "https://github.com/bare-foot" # the base hostname & protocol for your site
 
 twitter_username:
